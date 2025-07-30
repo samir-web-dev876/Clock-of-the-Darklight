@@ -42,7 +42,7 @@ h1 span {
   background: white;
   color: black;
   border-radius: 12px;
-  margin: 3px;
+  margin: 5px;
 }
 h1 span b {
   background: black;
@@ -55,7 +55,7 @@ h1 span b {
   filter: invert(100%);
 }
 h1:hover {
-  transform: translateX(-105px);
+  transform: translateX(-100px);
   filter: invert(100%);
 }
 @media (min-width: 800px) {
